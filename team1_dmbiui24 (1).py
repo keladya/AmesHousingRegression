@@ -929,7 +929,6 @@ results_df['R2 Square'].plot(kind='barh', figsize=(12, 8))
 
 # Submission
 """
-
 # Prediksi pada data test
 test_pred = rf_reg.predict(test_scale)
 
