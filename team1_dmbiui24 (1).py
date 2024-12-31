@@ -20,8 +20,6 @@ Original file is located at
 # **Pendahuluan**
 
 ##**Data**
-
-
 Dataset yang digunakan diambil dari Kompetisi House Prices - Advanced Regression Techniques pada Kaggle dengan 1460 observasi dan 81 variabel yang memuat informasi terkait rumah/properti di Ames, Iowa. Variabel-variabel tersebut mencakup karakteristik fisik, fasilitas, kondisi interior, kondisi lingkungan, hingga informasi penjualan. Dataset dapat diakses melalui [link berikut](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
 
 ##**Tujuan**
